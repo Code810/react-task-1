@@ -1,0 +1,13 @@
+input{
+    display: block;
+    margin: 10px 0;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+span{
+    font-weight: 600;
+    font-size: 25px;
+}

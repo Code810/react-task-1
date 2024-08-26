@@ -1,0 +1,10 @@
+.input-area{
+  width: 400px;
+  padding: 20px;
+  align-items: center;
+  margin: auto;
+
+}
+body{
+    background-color: rgb(235, 235, 235);
+}
